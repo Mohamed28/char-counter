@@ -1,0 +1,47 @@
+* {
+    font-family: "calibri";
+    margin: 0 auto;
+
+}
+
+body {
+    width: 80%;
+}
+
+header {
+    font-size: 2em;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+section {
+    width: 80%;
+    height: 3em;
+    display: block;
+    text-align: right;
+}
+
+label{
+    display: inline-block;
+    padding-top: 5px;
+}
+textarea {
+    width: 80%;
+    resize: none;
+    margin: 4px;
+    border: 1px solid #aaa;
+}
+
+span {
+    padding: 5px;
+    margin-left: 5px;
+    width: 32px;
+    text-align: center;
+    border: 1px solid #aaa;
+}
+
+footer {
+    text-align: center;
+}
